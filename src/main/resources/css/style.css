@@ -1,0 +1,8 @@
+.expired {
+    font-weight: bold;
+    color: red;
+}
+
+.expired span {
+    font-style: italic;
+}
